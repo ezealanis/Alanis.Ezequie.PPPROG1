@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603111857 source:c:\users\ezequ\desktop\primerparcial.prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
